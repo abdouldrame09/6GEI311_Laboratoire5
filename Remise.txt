@@ -1,0 +1,11 @@
+Université du Québec à Chicoutimi (UQAC)
+6GEI311 - Architecture des logiciels
+Automne 2026
+
+Laboratoire 5 : Déploiement et distribution de charge
+
+Membres de l'équipe :
+- Dramé, Abdramane (Code permanent : DRAA04070300)
+- Doumbia, Djan Ibrahim (Code permanent : DOUD23110200)
+
+Lien du repo : https://github.com/abdouldrame09/6GEI311_Laboratoire5.git
